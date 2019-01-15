@@ -1,0 +1,8 @@
+{
+  "nomenclature": {
+    "name": "terms_of_use",
+    "verboseName": "Terms of use"
+  },
+  "baseUrl": "/terms_of_use",
+  "source": "terms_of_use/src/index"
+}

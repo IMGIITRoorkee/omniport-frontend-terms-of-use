@@ -1,0 +1,12 @@
+.top-padded {
+    padding-top: 1em;
+}
+
+.all-caps {
+    text-transform: uppercase;
+    font-family: monospace;
+}
+
+.top-padded a {
+    color: inherit;
+}

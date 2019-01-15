@@ -598,7 +598,7 @@ export default class Developer extends Component {
                 Omniport, IMG, the local instance maintainers, their affiliates,
                 or agents be liable for
               </p>
-              <ol>
+              <ol styleName='app.all-caps'>
                 <li>
                   any indirect, special, incidental, punitive, exemplary or
                   consequential (including loss of data, use, business or
@@ -611,10 +611,12 @@ export default class Developer extends Component {
                   such damages.
                 </li>
               </ol>
-              To the fullest extent permitted by law, the maximum liability of
-              aggregate liability of all aforementioned parties will not exceed
-              0<em> (zero, zilch, nada, nil)</em> in the currency of your
-              choice.
+              <p styleName='app.all-caps'>
+                To the fullest extent permitted by law, the maximum liability of
+                aggregate liability of all aforementioned parties will not
+                exceed 0<em> (zero, zilch, nada, nil)</em> in the currency of
+                your choice.
+              </p>
               <Header as='h4' id='12'>
                 &sect;12 Modification
               </Header>

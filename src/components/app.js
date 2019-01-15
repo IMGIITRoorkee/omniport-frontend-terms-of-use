@@ -12,7 +12,7 @@ export default class App extends Component {
     const creators = [
       {
         name: 'Dhruv Bhanushali',
-        role: 'Frontend Developer',
+        role: 'Frontend developer',
         link: 'https://dhruvkb.github.io/'
       },
       {
